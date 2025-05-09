@@ -1,4 +1,4 @@
-##READ ME
+READ ME
 
 ##Prerequisites
 - Flutter SDK (v3.0.0 or newer)
