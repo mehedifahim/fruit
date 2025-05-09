@@ -1,16 +1,31 @@
-# my_app
+##READ ME
 
-A new Flutter project.
+##Prerequisites
+- Flutter SDK (v3.0.0 or newer)
+- Dart SDK (v2.17.0 or newer)
+- Android Studio/VSCode with Flutter plugin
 
-## Getting Started
+##Installation
+1. Clone the repository: git clone https://github.com/mehedifahim/fruit.git
+2. Install dependencies: flutter pub get
 
-This project is a starting point for a Flutter application.
+##Running the App
+First, connect with the emulator. Then run the command: flutter run
 
-A few resources to get you started if this is your first Flutter project:
+##Product Listing
+Displays all available fruits with add-to-cart functionality
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Shopping Cart
+Shows selected items that are added to the cart with quantity controls.
+
+
+##Features
+- Add/remove items from cart
+- Quantity management
+- Real-time total calculation
+- Responsive design
+
+##Dependencies
+- flutter: ^3.0.0
+
